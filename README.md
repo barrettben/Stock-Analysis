@@ -6,6 +6,7 @@ In this module, we created the necessary VBA coding to show Steve what he is loo
 ##### Results (Before Refactoring)
 Placeholder for explaining
 ![Before_Refactoring_2017](https://github.com/barrettben/Stock-Analysis/blob/ecbc2f4720061ca08c5e8c94e4d1584a0f2818a0/Resources/Before_Refactoring_2017.png)
+
 ![Before_Refactoring_2018](https://github.com/barrettben/Stock-Analysis/blob/ecbc2f4720061ca08c5e8c94e4d1584a0f2818a0/Resources/Before_Refactoring_2018.png)
 ##### Results (After Refactoring)
 Placeholder for explaining
